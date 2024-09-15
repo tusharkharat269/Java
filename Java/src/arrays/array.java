@@ -14,7 +14,7 @@ public class array {
 		}
 		
 		System.out.println(arr1.length);
-		System.out.println()
+		System.out.println();
 
 	}
 
