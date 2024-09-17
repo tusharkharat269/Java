@@ -1,4 +1,4 @@
-package arrays;
+package basicConcept;
 
 public class array {
 	

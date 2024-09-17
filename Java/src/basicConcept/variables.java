@@ -1,4 +1,5 @@
-package Basic_Concept;
+package basicConcept;
+
 
 public class variables {
 	public static void main(String[] args) {
@@ -13,6 +14,7 @@ public class variables {
 		System.out.println("Student fee: " + studentFee);
 		System.out.println("Student grade: " + studentGrade);
 		System.out.println("student admition status: " + studentAdmintion);
+		
 		
 	}
 

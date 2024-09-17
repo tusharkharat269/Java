@@ -1,4 +1,4 @@
-package Basic_Concept;
+package basicConcept;
 
 public class HelloWorld {
 	
