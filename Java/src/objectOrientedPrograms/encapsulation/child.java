@@ -17,7 +17,7 @@ class child extends parent{
 		obj.mobileNo = 5446841;			// default is accessible
 		obj.address = "buldana";		//accessibles
 		
-		car
+//		car
 		
 	}
 

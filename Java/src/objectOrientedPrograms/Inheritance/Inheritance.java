@@ -1,38 +1,6 @@
-package objectOrientedPrograms;
+package objectOrientedPrograms.Inheritance;
 
 //		Important keywords: super,final,this
-
-class Transportaion {
-
-	String type;
-
-	void star() {
-		System.out.println("start of transportaion..");
-	}
-
-	void startTravel() {
-		System.out.println("Transportaion class start travel method");
-	}
-
-}
-
-class vehicles extends Transportaion { // parent class
-
-	int wheels;
-	String brand;
-	boolean mannual; // 0 , 1 for automated
-
-	void print() {
-		System.out.println(brand);
-		System.out.println(wheels);
-		System.out.println("Is mannual: " + mannual);
-	}
-
-	void start() {
-		System.out.println("start of vehicles.........");
-	}
-
-}
 
 public class Inheritance extends vehicles { // child class
 
